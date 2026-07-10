@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Diego Tamiozzo 👋</h1>
+<h1 align="center">Olá, eu sou Diego Tamiozzo </h1>
 
 <p align="center">
   Cientista de Dados | Desenvolvedor Full Stack | Automação & IoT
@@ -21,9 +21,6 @@
 - **Técnico em Desenvolvimento de Sistemas**
 - **Técnico em Automação Industrial**
 - **Técnico em Eletrotécnica**
-
-Uma trajetória que une **dados, software e automação industrial** — da eletrotécnica ao código.
-
 ---
 
 ## 🛠️ Tech Stack & Ferramentas
@@ -33,21 +30,19 @@ Uma trajetória que une **dados, software e automação industrial** — da elet
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs&logoColor=white)
 
 **Frontend**
 <br>
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
 
 **Dados & IoT**
 <br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus-RTU%2FTCP-orange?style=flat)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=flat)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=flat)
 
 ---
 
@@ -64,4 +59,4 @@ Uma trajetória que une **dados, software e automação industrial** — da elet
 
 ---
 
-<p align="center"><i>Aberto a novas oportunidades e colaborações 🚀</i></p>
+<p align="center"><i>Aberto a novas oportunidades e colaborações, entre em contato!</i></p>
