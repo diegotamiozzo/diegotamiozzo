@@ -1,16 +1,67 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou Diego Tamiozzo 👋</h1>
 
-<!--
-**diegotamiozzo/diegotamiozzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Cientista de Dados | Desenvolvedor Full Stack | Automação & IoT
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://www.linkedin.com/in/diego-junior-tamiozzo-05044495/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://wa.me/5555991661357">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Formação
+
+- **Graduação:** Ciência dos Dados — UFMS
+- **Técnico em Desenvolvimento de Sistemas**
+- **Técnico em Automação Industrial**
+- **Técnico em Eletrotécnica**
+
+Uma trajetória que une **dados, software e automação industrial** — da eletrotécnica ao código.
+
+---
+
+## 🛠️ Tech Stack & Ferramentas
+
+**Backend**
+<br>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A45FF?style=flat&logo=adonisjs&logoColor=white)
+
+**Frontend**
+<br>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat&logo=inertia&logoColor=white)
+
+**Dados & IoT**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Modbus](https://img.shields.io/badge/Modbus-RTU%2FTCP-orange?style=flat)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat&logo=mqtt&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Networking-blue?style=flat)
+
+---
+
+## 🚀 Portfólio
+
+> Em construção — em breve por aqui!
+
+---
+
+## 📫 Como me encontrar
+
+- **LinkedIn:** [diego-junior-tamiozzo](https://www.linkedin.com/in/diego-junior-tamiozzo-05044495/)
+- **WhatsApp:** (55) 9.9166-1357
+
+---
+
+<p align="center"><i>Aberto a novas oportunidades e colaborações 🚀</i></p>
